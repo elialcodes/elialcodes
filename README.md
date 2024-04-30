@@ -1,8 +1,10 @@
 # Hi, I'm Noelia! 👋
 
+
 ## 🚀 About Me
 
 I'm a junior front-end developer. I have always been curious about technology, so I decided to go for a professional change. I spent some time training in programming by myself and for family reasons I could not make the leap before, so now it's my time. I acquired the knowledge I didn´t have in an intensive bootcamp, and now I consider myself a programmer, a Junior Front-End.
+
 
 ## Other things about me
 
@@ -16,10 +18,9 @@ Professionally I have been dedicated to customer service since 2006. Throughout 
 
 💬 Ask me about anything you want, I will be happy to answer you. If I can help you in any way, please contact me.
 
-📫 How to reach me:
-
 ⚡️ Fun fact...
 I am 45 years old, I do not hide it, valuable years that have given me a more mature personal and professional perspective. Although it may seem otherwise, I believe that this is my strong point.
+
 
 ## 🛠 Skills
 
@@ -31,7 +32,7 @@ I am 45 years old, I do not hide it, valuable years that have given me a more ma
 - GitHub, VS Code, Terminal, Slack, Zeplin.
 - Experience in project planning and development: Agile philosophy and Scrum framework.
 
+
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelia-abascal-cabrera/)
