@@ -12,21 +12,21 @@ Professionally I have been dedicated to customer service since 2006. Throughout 
 
 👩‍💻 I´m currently working in my own portfolio y and I collaborate with the international platform Utest, doing manual QA work for websites and apps.
 
-👯‍♀️ I would like to work with any company that gives me the opportunity to grow. My goal is to work as a web developer and keep learning. It is very satisfying to develop clean and working code, to see a website is well laid out, to solve bugs and offer the user a navigation experience of 10.
+👯‍♀️ I would like to work with any company that gives me the opportunity to grow. My goal is to work as a web developer and keep learning.
 
 💬 Ask me about anything you want, I will be happy to answer you. If I can help you in any way, please contact me.
 
 ⚡️ Fun fact...
-I am 45 years old, I do not hide it, valuable years that have given me a more mature personal and professional perspective. Although it may seem otherwise, I believe that this is my strong point.
+I am 46 years old, valuable years that have given me a more mature personal and professional perspective. Although it may seem otherwise, I believe that this is my strong point.
 
 
 ## 🛠 Skills
 
-- Layout: HTML, CSS, responsive design, Flexbox, Grid, SASS, Bootstrap, animations.
+- Layout: HTML, CSS, responsive design, Flexbox, Grid, SASS, Bootstrap, Tailwind and animations.
 - Vanilla JavaScript.
 - Creation of SPAs with React.
 - TypeScript.
-- Knowledge of REST API and Back-End programming: applications with Node JS, Express.
+- REST API and Back-End programming: applications with Node JS, Express.
 - Databases: MySQL and Mongo DB.
 - GitHub, VS Code, Terminal, Slack, Zeplin.
 - Experience in project planning and development: Agile philosophy and Scrum framework.
